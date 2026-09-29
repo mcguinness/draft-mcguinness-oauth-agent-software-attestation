@@ -1,4 +1,3 @@
-<!-- regenerate: off -->
 
 # OAuth Client Attestation Profile for Agent Software Attributes
 
